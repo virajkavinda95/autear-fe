@@ -1,0 +1,16 @@
+{
+    "Travel":{
+        "header":"Top Blogs In Travel",
+        "blogHeader":"Ninth Wonder of the World in Sri Lankan Heritage Sigiriya",
+        "description":"The blog to visit if looking for undiscovered treasures around the globe is Global Explorers. Come along with us as we explore off-the-beaten-path locations, discovering fascinating cultures and stunning scenery. Whether you're travelling alone, with a partner, or in a group, our in-depth guides, first-hand tales, and breathtaking photos will motivate your next journey. Encounter the fascinating marketplaces of Morocco and the historic temples of Cambodia with Global Explorers as your travel companion.",
+        "author":"J.K. Rowling",
+        "date":"2023.11.11"        
+    },
+    "Places":{
+        "header":"Top Blogs In Places",
+        "blogHeader":"",
+        "description":"Historical Horizons takes you on a journey through time, exploring the world's most fascinating historical sites. Our blog delves into the stories behind ancient ruins, medieval castles, and historic landmarks. We offer detailed guides on how to visit these sites, including tips on nearby attractions and accommodations. Whether you're a history buff or simply curious about the past, Historical Horizons will ignite your passion for exploring the remnants of bygone eras.",
+        "author":"J.K. Shakespier",
+        "date":"2023.11.12" 
+    }
+}
