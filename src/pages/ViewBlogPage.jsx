@@ -54,7 +54,7 @@ function ViewBlogPage() {
               className="object-contain mx-0 p-0 md:object-scale-down rounded-xl"
             />
           </div>
-
+          {/* test comment */}
           <article className="text-md format lg:format-lg text-justify leading-8 mt-5">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
             maximus mollis arcu, eu pulvinar ipsum vehicula finibus. Vivamus et
