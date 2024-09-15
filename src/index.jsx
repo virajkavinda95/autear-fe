@@ -13,6 +13,7 @@ import Page from "./components/Page";
 import AllBlogsPage from "./pages/AllBlogsPage";
 import ViewBlogPage from "./pages/ViewBlogPage";
 
+// git push comment
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<App />}>
